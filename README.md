@@ -15,7 +15,7 @@ This Power BI dashboard provides insights into Motorola's sales performance over
 
 ## 📂 Files
 - `Motorola sales dashboard.pbix`: Power BI file
-- `dashboard-preview.png`: Screenshot of the dashboard
+- `C:\Users\Swaraj\Downloads\MotoRola sales .jpg`: Screenshot of the dashboard
 
 ## 🧠 Insights
 - [Add 2–3 data insights from your dashboard]
