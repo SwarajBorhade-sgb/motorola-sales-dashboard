@@ -18,7 +18,11 @@ This Power BI dashboard provides insights into Motorola's sales performance over
 - `C:\Users\Swaraj\Downloads\MotoRola sales .jpg`: Screenshot of the dashboard
 
 ## 🧠 Insights
-- [Add 2–3 data insights from your dashboard]
+- Regional trends and monthly sales tracking
+
+- Profit analysis across product categories
+
+- Visual KPIs for management review
 
 ## 🔗 Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/swaraj-borhade-921a411a4/)
