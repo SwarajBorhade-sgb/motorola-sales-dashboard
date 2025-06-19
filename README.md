@@ -28,5 +28,5 @@ This Power BI dashboard provides insights into Motorola's sales performance over
 - Visual KPIs for management review
 
 ## 🔗 Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/swaraj-borhade-921a411a4/)
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/swaraj-borhade-921a411a4/](https://www.linkedin.com/in/swaraj-borhade-921a411a4/))
 
